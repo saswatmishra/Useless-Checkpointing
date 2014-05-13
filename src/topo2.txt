@@ -1,0 +1,21 @@
+1 net01.utdallas.edu 7000
+2 net02.utdallas.edu 7001
+3 net03.utdallas.edu 7002
+4 net04.utdallas.edu 7003
+5 net05.utdallas.edu 7004
+6 net06.utdallas.edu 7005
+7 net07.utdallas.edu 7008
+8 net08.utdallas.edu 7009
+9 net09.utdallas.edu 7012
+10 net10.utdallas.edu 7014
+END
+0	1	1	1	1	1	1	1	1	1
+1	0	1	1	1	1	1	1	1	1
+1	1	0	1	1	1	1	1	1	1
+1	1	1	0	1	1	1	1	1	1
+1	1	1	1	0	1	1	1	1	1
+1	1	1	1	1	0	1	1	1	1
+1	1	1	1	1	1	0	1	1	1
+1	1	1	1	1	1	1	0	1	1
+1	1	1	1	1	1	1	1	0	1
+1	1	1	1	1	1	1	1	1	0
